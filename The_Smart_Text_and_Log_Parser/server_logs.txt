@@ -1,0 +1,6 @@
+INFO: System initialized successfully.
+WARNING: Memory usage reaching 85%.
+CRITICAL: Failed to connect to database.
+INFO: User 'admin' logged in.
+CRITICAL: Unauthorized access attempt detected on port 22.
+INFO: Backup completed successfully.

@@ -1,0 +1,2 @@
+CRITICAL: Failed to connect to database.
+CRITICAL: Unauthorized access attempt detected on port 22.
